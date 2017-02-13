@@ -1,0 +1,28 @@
+{
+  "name": "requirejs-app",
+  "version": "0.1",
+  "description": "A sample requirejs app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "engines": {
+    "node": "6.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajamukundh/reactjs-app"
+  },
+  "keywords": [
+    "reactjs",
+    "node",
+    "express"
+  ],
+  "author": "Raja Mukundh Paruchuri",
+  "contributors": [
+    "Raja Mukundh Paruchuri <rajamukundh@gmail.com>"
+  ]
+}
