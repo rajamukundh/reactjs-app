@@ -1,7 +1,9 @@
+import * as types from '../constants/ActionTypes'
+
 export const selectPlayer = (player) => {
     console.log("You clicked on player: ", player.firstName);
     return {
-        type: 'PLAYER_SELECTED',
-        payload: player
+        type: types.PLAYER_SELECTED,
+        player: player
     }
-};
+}
