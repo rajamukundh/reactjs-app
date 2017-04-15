@@ -1,0 +1,3 @@
+export const RECEIVE_PLAYERS = 'RECEIVE_PLAYERS'
+export const PLAYER_SELECTED = 'PLAYER_SELECTED'
+export const ADD_TO_TEAM = 'ADD_TO_TEAM'
